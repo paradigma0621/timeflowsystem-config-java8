@@ -7,6 +7,9 @@ This project is designed to run in *Java 8*.
 2022-11-22 - Started Core project
 2023-03-16 - Created Config microservice
 2023-03-17 - Connected Config microservice with Core microservice
+
+2023-03-20 - Unified Config + Eureka + Core  (See specific branch inside those repositories)
+
 Access:
 http://localhost:8888/application/default
-http://localhost:8888/core-java8/dev
+http://localhost:8888/core-java8/default
