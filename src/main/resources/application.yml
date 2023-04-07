@@ -8,4 +8,4 @@ spring:
       server:
         git:
           uri: https://github.com/mselucas/configRepo
-          default-label: main
+          default-label: master
